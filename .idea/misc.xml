@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="nlp_course_env" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="nlp_course_env" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="llms_course_env" project-jdk-type="Python SDK" />
 </project>
